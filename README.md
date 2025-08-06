@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sindical.
-- 👀 I’m interested in video editing.
-- 🌱 I’m currently learning French & German.
-- 💞️ I’m looking to collaborate on code.
-- 📫 How to reach me: @Sindical on discord
+- 👋 Hi, I’m @Sindical -> Find me on Discord
+- 🌱 I’m currently learning C#
+- 💀 Everything on here is school projects (dont expect anything good)
+- 👎 Why are you even looking at this?
+- 😘 idk
 
 <!---
 Sindical/Sindical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
